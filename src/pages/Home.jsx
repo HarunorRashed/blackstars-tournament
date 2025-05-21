@@ -1,1 +1,0 @@
-// Home Page with Black & Gold Theme
